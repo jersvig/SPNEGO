@@ -1,0 +1,6 @@
+# intellij realted stuff
+.idea
+spnego.iml
+
+# maven realted stuff
+target
